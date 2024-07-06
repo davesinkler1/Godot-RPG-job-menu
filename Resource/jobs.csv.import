@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://ck7lc81adx8e6"
+
+[deps]
+
+files=["res://Resource/jobs.JOBNAME.translation", "res://Resource/jobs.DESCRIPTION.translation", "res://Resource/jobs.SKILLS.translation"]
+
+source_file="res://Resource/jobs.csv"
+dest_files=["res://Resource/jobs.JOBNAME.translation", "res://Resource/jobs.DESCRIPTION.translation", "res://Resource/jobs.SKILLS.translation"]
+
+[params]
+
+compress=true
+delimiter=0
